@@ -18,7 +18,7 @@ Things I work with:
   - ML
   - Pandas/ Scikit/ Numpy
  
-Send me a message: https://dm.new/schmitz.
+Send me a message: shreyaspasumarthi@gmail.com
 
 <!--
 **ShreyasPasumarthi/ShreyasPasumarthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

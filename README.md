@@ -8,6 +8,18 @@ My name is Shreyas Pasumarthi, a recent graduate student of UC San Diego with a 
 
 🎞️ I am also interested in 
 
+Things I work with:
+* Web Development
+  - Next.js
+* Generative AI
+  - LLM Workflows
+* Data Science
+  - Python
+  - ML
+  - Pandas/ Scikit/ Numpy
+ 
+Send me a message: https://dm.new/schmitz.
+
 <!--
 **ShreyasPasumarthi/ShreyasPasumarthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

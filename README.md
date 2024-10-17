@@ -4,7 +4,7 @@ My name is Shreyas Pasumarthi, a recent graduate student of UC San Diego with a 
 
 💻 My interests lie within the field of AI, Machine Learning & Robotics
 
-🎶 Outside my academic and professional pursuits, I am passionate about 
+🎶 Outside my academic and professional pursuits, I am a second degree black belt in tae kwon do and novice trumpet and kalimba player
 
 🎞️ I am also interested in 
 

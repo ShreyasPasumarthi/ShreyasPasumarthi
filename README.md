@@ -6,8 +6,6 @@ My name is Shreyas Pasumarthi, a recent graduate of UC San Diego with a B.S. in 
 
 🎶 Outside my academic and professional pursuits, I am a second degree black belt in tae kwon do and novice trumpet and kalimba player
 
-🎞️ I am also interested in 
-
 Things I work with:
 * Web Development
   - Next.js

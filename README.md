@@ -6,7 +6,7 @@ My name is Shreyas Pasumarthi, a recent graduate student of UC San Diego with a 
 
 🎶 Outside my academic and professional pursuits, I am passionate about 
 
-🎞️ I am also interested in video games and cinematography
+🎞️ I am also interested in 
 
 if you like what i do, maybe consider buying me a coffee/tea 👉👈
 

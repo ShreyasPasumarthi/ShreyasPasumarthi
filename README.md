@@ -2,7 +2,7 @@
 
 My name is Shreyas Pasumarthi and I'm a recent graduate of UC San Diego with a B.S. in Mathematics-Computer Science.
 
-💻 My interests lie within the field of AI, Machine Learning & Robotics
+💻 My interests lie within the field of AI, Machine Learning, & Robotics
 
 🚀 I interned 3 times with NASA's Jet Propulsion Laboratory, working on projects ranging from data operations for ISS instruments to building simulation software for missions to asteriods
 

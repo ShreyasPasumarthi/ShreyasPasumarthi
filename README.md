@@ -4,6 +4,8 @@ My name is Shreyas Pasumarthi and I'm a recent graduate of UC San Diego with a B
 
 💻 My interests lie within the field of AI, Machine Learning & Robotics
 
+🚀 I interned 3 times with NASA's Jet Propulsion Laboratory, working on projects ranging from data operations for ISS instruments to building simulation software for missions to asteriods
+
 🎶 Outside my academic and professional pursuits, I am a second degree black belt in tae kwon do and novice trumpet and kalimba player
 
 Things I work with:

@@ -10,9 +10,8 @@ My name is Shreyas Pasumarthi and I'm a recent graduate of UC San Diego with a B
 
 Things I work with:
 * Data Science
-  - Python
+  - Python (Pandas, Scikit, Numpy, etc.)
   - ML (TensorFlow, PyTorch, etc.)
-  - Pandas/ Scikit/ Numpy
   - Data Pipelines (Hadoop, Spark, Hive, etc.)
 * Robotics
   - Modeling & Simulation

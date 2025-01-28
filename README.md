@@ -9,12 +9,15 @@ My name is Shreyas Pasumarthi and I'm a recent graduate of UC San Diego with a B
 🎶 Outside my academic and professional pursuits, I am a second degree black belt in tae kwon do and a novice trumpet and kalimba player
 
 Things I work with:
-* Web Development
-  - Next.js
 * Data Science
   - Python
-  - ML
+  - ML (TensorFlow, PyTorch, etc.)
   - Pandas/ Scikit/ Numpy
+* Robotics
+  - Modeling & Simulation
+  - Autonomy & Path Planning
+* Web Development
+  - React.js
 * Generative AI
   - LLM Workflows
  

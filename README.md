@@ -19,9 +19,7 @@ Things I work with:
   - Autonomy & Path Planning
 * Web Development
   - React.js
-* Generative AI
-  - LLM Workflows
- 
+
 Send me a message: shreyaspasumarthi@gmail.com
 
 <!--

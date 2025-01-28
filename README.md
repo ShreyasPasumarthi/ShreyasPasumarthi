@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 
-My name is Shreyas Pasumarthi and I'm a M.S. Data Science student at USC and recent graduate of UC San Diego with a B.S. in Mathematics-Computer Science.
+My name is Shreyas Pasumarthi and I'm a M.S. Data Science student at the University of Southern California (USC) and recent graduate of UC San Diego with a B.S. in Mathematics-Computer Science.
 
 💻 My interests lie within the field of AI, Machine Learning, & Robotics
 

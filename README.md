@@ -13,6 +13,7 @@ Things I work with:
   - Python
   - ML (TensorFlow, PyTorch, etc.)
   - Pandas/ Scikit/ Numpy
+  - Data Pipelines (Hadoop, Spark, Hive, etc.)
 * Robotics
   - Modeling & Simulation
   - Autonomy & Path Planning

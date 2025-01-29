@@ -4,7 +4,7 @@ My name is Shreyas Pasumarthi and I'm a M.S. Data Science student at the Univers
 
 💻 My interests lie within the field of AI, Machine Learning, & Robotics
 
-🚀 I interned 3 times with NASA's Jet Propulsion Laboratory, working on projects ranging from data operations for ISS instruments to building simulation software for missions to asteriods
+🚀 I interned 3 times with NASA's Jet Propulsion Laboratory, working on projects ranging from data operations for ISS instruments to building simulation software for autonomous missions to asteriods
 
 🎶 Outside my academic and professional pursuits, I am a second degree black belt in tae kwon do and a novice trumpet and kalimba player
 
